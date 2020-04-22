@@ -1,0 +1,11 @@
+max_cpu_time                  864000
+mu_strategy                   adaptive
+warm_start_init_point         yes
+warm_start_bound_push         1e-9
+warm_start_bound_frac         1e-9
+warm_start_slack_bound_push   1e-9
+warm_start_slack_bound_frac   1e-9
+warm_start_mult_bound_push    1e-9
+print_user_options            yes
+print_timing_statistics       yes
+linear_solver                 ma57

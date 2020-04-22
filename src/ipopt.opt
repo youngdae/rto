@@ -1,0 +1,5 @@
+max_cpu_time             864000
+mu_strategy              adaptive
+print_user_options       yes
+print_timing_statistics  yes
+linear_solver            ma57
